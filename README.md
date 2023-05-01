@@ -1,12 +1,8 @@
 # AI-Enabled-Chrome-Startup-Page
-# Chevron [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE.md) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
 
 <p align=center>
-  <img width="80%" src="https://i.imgur.com/Wa7HcuW.png">
-</p>
-
-<p align=center>
-  Сhevron is a <i>powerful</i> and highly <i>functional</i> startpage integrated with chatGPT<br/> and hidden under the super <i>minimalistic</i> and <i>animated</i> design
+  This is a <i>powerful</i> and highly <i>functional</i> startpage integrated with chatGPT<br/> and hidden under the super <i>minimalistic</i> and <i>animated</i> design
 </p>
 
 <p align=center>
